@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+<h2>Video link</h2>
+
+https://www.youtube.com/shorts/WvjW9mQbf0o
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
